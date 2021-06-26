@@ -1,2 +1,2 @@
 # Zip Wars 
-The Modern Command Line Zipping And Unzipping Tool
+The Modern Non GUI Zipping And Unzipping Tool
